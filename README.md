@@ -29,10 +29,42 @@ However, regardless of skill level, it can benefit anyone who wants to have all 
    ## Table of Contents
    * <b>The Simpson's Tapped Out:</b>
       * <a href="#tsto-private-server-options">TSTO Private Server Options</a>
+   
    * <b>Programs:</b>
       * <a href="#programs-that-are-dependents">Programs that are Dependents</a>
       * <a href="#optional-programs">Optional Programs</a> 
       * <a href="#android-emulators--apk-installers">Android Emulators | APK installers</a>
+
+   * <b>Tutorials:</b>
+      * <a href="#how-to-install-python">How to install Python</a>
+      * <a href="#how-to-install-jdk23">How to install JDK23</a> 
+      * <a href="#how-to-install-7zip">How to install 7Zip</a>
+      * <a href="#how-to-install-ffmpeg">How to install FFmpeg </a>
+      * <a href="#how-to-install-chocolatey">How to install Chocolatey | Choco</a> 
+      * <a href="#how-to-install-apkpure">How to install APKPure</a>
+      * <a href="#how-to-install-apkmirror">How to install APKMirror</a>
+      * <a href="#how-to-install-uptodown-apk-installer">How to install Uptodown APK installer</a> 
+      * <a href="#how-to-install-apks-with-uptodown">How to install APK’s with Uptodown</a>
+      * <a href="#how-to-install-bluestacks">How to install Bluestacks</a>
+      * <a href="#how-to-check-if-virtualization-is-supportedenabled-on-your-pc">How to check Virtualization settings on PC</a> 
+      * <a href="#how-to-install-nox-player">How to install Nox Player</a>
+
+
+   * <b>Tutorials:</b>
+
+
+ 
+
+
+      * <a href="#"></a>
+      * <a href="#"></a> 
+      * <a href="#"></a>
+      * <a href="#"></a>
+      * <a href="#"></a> 
+      * <a href="#"></a>
+      * <a href="#"></a>
+      * <a href="#"></a> 
+      * <a href="#"></a>
 ---------------------------------------------------------------------------
 <br>
 <br>
@@ -84,5 +116,60 @@ However, regardless of skill level, it can benefit anyone who wants to have all 
    * <a href="https://play.google.com/store/apps/details?id=com.uptodown.installer" target="blank">Uptodown APK installer</a> (Android)
    * <a href="https://www.bluestacks.com/" target="blank">Bluestacks</a> (PC)  
    * <a href="https://www.bignox.com/" target="blank">Nox Player</a> (PC)
+
+## How to install Python:
+   * <a href="https://www.youtube.com/watch?v=IPOr0ran2Oo" target="blank">Python 3.13.0 on Windows 10</a> (Video)
+   * <a href="https://www.youtube.com/watch?v=C3bOxcILGu4&pp=ygUgaG93IHRvIGluc3RhbGwgcHl0aG9uIHdpbmRvd3MgMTE%3D" target="blank">Python 3.13.0 on Windows 11</a> (Video)
+
+## How to install JDK23:
+   * <a href="https://www.youtube.com/watch?v=WGQN0HKGnu0" target="blank">Java JDK 23 on Windows 10</a> (Video)
+   * <a href="https://www.youtube.com/watch?v=R6MoDMASwag&pp=ygUoSG93IHRvIEluc3RhbGwgSmF2YSBKREsgMjMgb24gV2luZG93cyAxMQ%3D%3D" target="blank">Java JDK 23 on Windows 11</a> (Video)
+
+## How to install 7Zip:
+   * <a href="https://www.youtube.com/watch?v=N544dKhjVT8" target="blank">7Zip on Windows 10/11</a> (Video)
+
+## How to install FFmpeg: 
+   * <a href="https://www.youtube.com/watch?v=mEV5ZRqaWu8" target="blank">FFmpeg on Windows 10/11</a> (Video) 
+
+## How to install Chocolatey
+   * <a href="https://www.youtube.com/watch?v=T8iW5dSXB88" target="blank">Chocolatey / Choco on Windows 10</a> (Video)  
+   * <a href="https://www.youtube.com/watch?v=G7KQP3i_0Iw" target="blank">Chocolatey / Choco on Windows 11</a> (Video) 
+
+## How to install APKPure
+   * <a href="https://apkpure.com/howto/how-to-download-apkpure-on-android" target="blank">Install APKPure</a> (Tutorial)  
+
+## How to install APKMirror:
+   * <a href="https://www.youtube.com/watch?v=jh_JaRfABGk" target="blank">Nox Player</a> (Video)
+
+## How to install Uptodown APK installer: 
+   * <a href="https://www.youtube.com/watch?v=d-zv98HAd1s&t=42s" target="blank">Install Uptodown APK</a> (Video)
+
+## How to install APK’s with Uptodown
+   * <a href="https://www.youtube.com/watch?v=d-zv98HAd1s&t=42s" target="blank">Use Uptodown APK</a> (Video)
+
+## How to install Bluestacks: 
+   * <a href="https://www.youtube.com/watch?v=FdhEPeqlOzo" target="blank">Bluestacks on Windows 10</a> (Video)
+   * <a href="https://www.youtube.com/watch?v=Cxh_pIs7-m8" target="blank">Bluestacks on Windows 11</a> (Video)
+
+## How to check if Virtualization is supported/enabled on your PC:  
+   * <a href="https://support.bluestacks.com/hc/en-us/articles/360058371832-How-to-check-if-Virtualization-is-supported-and-or-enabled-on-your-PC-for-BlueStacks-5#%E2%80%9C4%E2%80%9D" target="blank">Check Virtualization Setting on PC</a> (Tutorial)
+
+## How to install Nox Player:
+   * <a href="https://www.youtube.com/watch?v=GB3Pb21YBH0" target="blank">Nox Player on Windows 10/11</a> (Video)
+
+
+   * <a href="" target="blank"></a> (Video)
+   * <a href="" target="blank"></a> (Video)
+   * <a href="" target="blank"></a> (Video)
+   * <a href="" target="blank"></a> (Video)
+   * <a href="" target="blank"></a> (Video)
+   * <a href="" target="blank"></a>
+   * <a href="" target="blank"></a>
+   * <a href="" target="blank"></a>
+   * <a href="" target="blank"></a>
+   * <a href="" target="blank"></a>
+   * <a href="" target="blank"></a>
+
+
 
   <a href="#tsto-private-server-manual">< Back to Top</a>
